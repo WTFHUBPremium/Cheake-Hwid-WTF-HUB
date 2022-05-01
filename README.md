@@ -1,1 +1,5 @@
-# Cheake-Hwid-WTF-HUB
+return{
+
+"B593C5FA-727B-4D38-A535-F975E5E16315"
+
+}
